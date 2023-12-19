@@ -73,7 +73,7 @@ main {
 }
 
 .card {
-    max-width: 900px;
+    max-width: 90vw;
     max-height: 195px;
     margin-top: 65px;
     border-radius: 8px;
@@ -83,6 +83,7 @@ main {
     display: flex;
     flex-direction: column;
     gap: 15px 0px;
+    margin-bottom: 15px;
 }
 
 .card:hover {
